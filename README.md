@@ -94,4 +94,5 @@
 > 개발 기간 2021.02 - 2021.02 </br>
 > Demo: https://sweet-tulumba-71dc7b.netlify.app </br>
 > 기술 스택: </br>
-> HTML / Javascript / CSS
+> HTML / Javascript / CSS </br>
+> [프로젝트 상세 설명 참고](https://github.com/Strongorange/JS30)
