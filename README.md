@@ -78,6 +78,7 @@
 
 > 여행사 홈페이지 제작 (회사 프로젝트) </br>
 > 개발 기간: 2023.09 ~ 2023.12 </br>
+> Demo: 공개 불가 </br>
 > </br>
 > 기술 스택: </br>
 > Typescript / NextJS 12 / useSWR / TailwindCSS 
