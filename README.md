@@ -50,6 +50,8 @@
 > TypeScript 4.9.4, / NextJS 13 / React 18.2.0 / Firebase 9.15.0 / zustand 4.1.5 / TailwindCSS </br>
 > [프로젝트 상세 설명 참고](https://github.com/Strongorange/SeriesBox)
 
+</br>
+
 ### 2.  A사 홈페이지
 
 > 1 페이지 간단 회사 소개 홈페이지 (회사 프로젝트) </br>
@@ -59,6 +61,7 @@
 > 기술 스택: </br>
 > TypeScript 4.8.4 / React 18.0.21 / Firebase 9.12.1 / TailwindCSS 3.2.1
 
+</br>
 
 ### 3.  B사 홈페이지
 
@@ -68,6 +71,8 @@
 > </br>
 > 기술 스택: 
 > React 18.2.0 /  StyledComponents 5.3.5
+> 
+</br>
 
 ### 4.  C사 홈페이지
 
@@ -77,6 +82,7 @@
 > 기술 스택: </br>
 > Typescript / NextJS 12 / useSWR / TailwindCSS 
 
+</br>
  
 ### 5. [Movie, Drama Website](https://github.com/Strongorange/popcorn)
 
@@ -87,6 +93,8 @@
 > 기술 스택: </br>
 > React 17.0.2 / StyledComponents 5.3.0 </br>
 > [프로젝트 상세 설명 참고](https://github.com/Strongorange/popcorn)
+
+</br>
 
 ### 6. 두더지 잡기 게임
 
