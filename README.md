@@ -86,9 +86,9 @@
  
 ### 5. [Movie, Drama Website](https://github.com/Strongorange/popcorn)
 
-> IMDB Open API 를 이용한 영화, 드라마 정보 제공 웹 사이트 (개인 프로젝트, 클론 코딩)
-> 개발 기간: 2023.09 ~ 2023.12
-> Demo: brave-lumiere-06d425.netlify.app </br>
+> IMDB Open API 를 이용한 영화, 드라마 정보 제공 웹 사이트 (개인 프로젝트, 클론 코딩)</br>
+> 개발 기간: 2023.09 ~ 2023.12 </br>
+> Demo: https://brave-lumiere-06d425.netlify.app/#/ </br>
 > </br>
 > 기술 스택: </br>
 > React 17.0.2 / StyledComponents 5.3.0 </br>
