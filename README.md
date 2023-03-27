@@ -40,7 +40,28 @@
 
 ## 📌 Projects
 
-### 1.  [seriesBox](https://github.com/Strongorange/SeriesBox)
+### 1. [PriceCrush](https://github.com/PriceCrush/PriceCrush---Client)  
+
+
+> Websocket을 이용한 실시간 경매 플랫폼 서비스 (팀 프로젝트, 프론트엔드) </br>
+> 개발 기간: 2023.03.19 ~ 2023.04.19 (진행중) </br>
+> </br>
+> 기술 스택:  </br>
+> Typescript / NextJS 13 / Styled-Components / Recoil  
+> [프로젝트 상세 설명 참고](https://github.com/PriceCrush/PriceCrush---Client)
+
+### 2.  [MungMung](https://github.com/MungMungSideProject/mung_front)
+
+> 반려견 정보를 확인하고 산책 인증 게시물을 올릴 수 있는 서비스 (팀 프로젝트, 프론트엔드) </br>
+> 개발 기간: 2023.03.19 ~ 2023.04 (진행중) </br>
+> </br>
+> 기술 스택: </br>
+> TypeScript / React / TailwindCSS / Recoil </br>
+> [프로젝트 상세 설명 참고](https://github.com/MungMungSideProject/mung_front)
+
+</br>
+
+### 3.  [seriesBox](https://github.com/Strongorange/SeriesBox)
 
 > 앨범 기반 온라인 사진, 영상 업로드 서비스 (개인 프로젝트) </br>
 > 개발 기간: 2022.12 ~ 2023.03 </br>
@@ -52,7 +73,7 @@
 
 </br>
 
-### 2.  A사 홈페이지
+### 4.  A사 홈페이지
 
 > 1 페이지 간단 회사 소개 홈페이지 (회사 프로젝트) </br>
 > 개발 기간: 2022.10 ~ 2023.12 </br>
@@ -63,7 +84,7 @@
 
 </br>
 
-### 3.  B사 홈페이지
+### 5.  B사 홈페이지
 
 > 구매자, 판매자, 관리자 연결 플랫폼 (회사 프로젝트) </br>
 > 개발 기간: 2022.11 ~ 2023.12 </br>
@@ -74,7 +95,7 @@
 > 
 </br>
 
-### 4.  C사 홈페이지
+### 6.  C사 홈페이지
 
 > 여행사 홈페이지 제작 (회사 프로젝트) </br>
 > 개발 기간: 2023.09 ~ 2023.12 </br>
@@ -85,7 +106,7 @@
 
 </br>
  
-### 5. [Movie, Drama Website](https://github.com/Strongorange/popcorn)
+### 7. [Movie, Drama Website](https://github.com/Strongorange/popcorn)
 
 > IMDB Open API 를 이용한 영화, 드라마 정보 제공 웹 사이트 (개인 프로젝트, 클론 코딩)</br>
 > 개발 기간: 2023.09 ~ 2023.12 </br>
