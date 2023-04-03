@@ -66,38 +66,39 @@
 ### 3.  [seriesBox](https://github.com/Strongorange/SeriesBox)
 
 > 앨범 기반 온라인 사진, 영상 업로드 서비스 (개인 프로젝트) </br>
-> 개발 기간: 2022.12 ~ 2023.03 </br>
-> Demo: https://seriesbox-public.netlify.app </br>
-> </br>
-> 기술 스택: </br>
-> TypeScript 4.9.4, / NextJS 13 / React 18.2.0 / Firebase 9.15.0 / zustand 4.1.5 / TailwindCSS </br>
-> [프로젝트 상세 설명 참고](https://github.com/Strongorange/SeriesBox)
-
-</br>
-
-### 4.  A사 홈페이지
-
-> 1 페이지 간단 회사 소개 홈페이지 (회사 프로젝트) </br>
+> 개발 기간: 2022.12 ~ 2023.0 (회사 프로젝트) </br>
 > 개발 기간: 2022.10 ~ 2023.12 </br>
 > Demo: 공개불가 </br>
 > </br>
 > 기술 스택: </br>
-> TypeScript 4.8.4 / React 18.0.21 / Firebase 9.12.1 / TailwindCSS 3.2.1
+> TypeScript / React / Firebase 9 / TailwindCSS
 
 </br>
 
-### 5.  B사 홈페이지
+### 5.  [TicTacToe_TS](http://github.com/Strongorange?tab=repositories)
+
+> 간단한 틱택토 게임입니다. (개인 프로젝트) </br>
+> 개발 기간: 2023.04 ~ 2023.04 </br>
+> Demo: https://bit.ly/3yJ9S8k </br>
+> </br>
+> 기술 스택: </br>
+> TypeScript / Next.js 13
+> [프로젝트 상세 설명 참고](https://github.com/Strongorange/TicTacToe-TS)
+
+</br>
+
+### 6.  B사 홈페이지
 
 > 구매자, 판매자, 관리자 연결 플랫폼 (회사 프로젝트) </br>
 > 개발 기간: 2022.11 ~ 2023.12 </br>
 > Demo: 공개불가 </br>
 > </br>
 > 기술 스택: 
-> React 18.2.0 /  StyledComponents 5.3.5
+> React /  StyledComponents 
 > 
 </br>
 
-### 6.  C사 홈페이지
+### 7.  C사 홈페이지
 
 > 여행사 홈페이지 제작 (회사 프로젝트) </br>
 > 개발 기간: 2023.09 ~ 2023.12 </br>
@@ -108,7 +109,7 @@
 
 </br>
  
-### 7. [Movie, Drama Website](https://github.com/Strongorange/popcorn)
+### 8. [Movie, Drama Website](https://github.com/Strongorange/popcorn)
 
 > IMDB Open API 를 이용한 영화, 드라마 정보 제공 웹 사이트 (개인 프로젝트, 클론 코딩)</br>
 > 개발 기간: 2023.09 ~ 2023.12 </br>
@@ -125,8 +126,6 @@
 내가 얻은 지식을 잃어버리지 않기 위해
 애매하게 아는 것이 아닌 확실히 알기위해
 정리를 시작한 TIL 브랜치입니다.
-
-
 
 
 
