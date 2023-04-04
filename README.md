@@ -68,7 +68,7 @@
 > 앨범 기반 온라인 사진, 영상 업로드 서비스 (개인 프로젝트) </br>
 > 개발 기간: 2022.12 ~ 2023.0 (회사 프로젝트) </br>
 > 개발 기간: 2022.10 ~ 2023.12 </br>
-> Demo: 공개불가 </br>
+> Demo: https://bit.ly/3yJ9S8k </br>
 > </br>
 > 기술 스택: </br>
 > TypeScript / React / Firebase 9 / TailwindCSS
