@@ -79,7 +79,7 @@
 
 > 간단한 틱택토 게임입니다. (개인 프로젝트) </br>
 > 개발 기간: 2023.04 ~ 2023.04 </br>
-> Demo: https://bit.ly/3yJ9S8k </br>
+> Demo: https://bit.ly/40xSiQF </br>
 > </br>
 > 기술 스택: </br>
 > TypeScript / Next.js 13
