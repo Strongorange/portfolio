@@ -180,8 +180,6 @@
 
 </br>
 
-</br>
- 
 ### 8. [Movie, Drama Website](https://github.com/Strongorange/popcorn)
 
 > > IMDB Open API 를 이용한 영화, 드라마 정보 제공 웹 사이트 (개인 프로젝트, 클론 코딩)
