@@ -13,6 +13,7 @@
 ## 📌 Contact
 
 - 📧 이메일: dlcksgnl96@naver.com
+- GitHub: [https://github.com/Strongorange](https://github.com/Strongorange)
 - 📜 이력서: [https://traveling-hamster-c73.notion.site/86a4f09952ad4934950c1c6e707184b3](https://traveling-hamster-c73.notion.site/86a4f09952ad4934950c1c6e707184b3)
 
 </br>
