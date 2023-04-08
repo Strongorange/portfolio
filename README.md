@@ -165,7 +165,7 @@
 
 </br>
 
-### 7. [TicTacToe_TS](http://github.com/Strongorange?tab=repositories)
+### 7. [TicTacToe_TS](https://github.com/Strongorange/TicTacToe-TS)
 
 > > 간단한 틱택토 게임입니다. (개인 프로젝트)
 >
