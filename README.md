@@ -142,21 +142,9 @@
 
 </br>
 
-### 5. [MungMung](https://github.com/MungMungSideProject/mung_front)
-
-> 반려견 정보를 확인하고 산책 인증 게시물을 올릴 수 있는 서비스 (팀 프로젝트, 프론트엔드)
->
-> **개발 기간**: 2023.03.19 ~ 2023.04 (진행중)
->
-> **사용 기술**
->
-> - TypeScript / React / TailwindCSS / Recoil
->
-> [프로젝트 상세 설명 참고](https://github.com/MungMungSideProject/mung_front)
-
 </br>
 
-### 6. [seriesBox](https://github.com/Strongorange/SeriesBox)
+### 5. [seriesBox](https://github.com/Strongorange/SeriesBox)
 
 > 앨범 기반 온라인 사진, 영상 업로드 서비스 (개인 프로젝트)
 >
