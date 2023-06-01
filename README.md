@@ -111,7 +111,7 @@
 
 ## 📌 Personal Projects
 
-### [Smart Mirror Web/App](https://github.com/Strongorange/SeriesBox)
+### [Smart Mirror Web/App](https://github.com/Strongorange/newMirrorController)
 
 > 시계, 날씨, 미세먼지, 사진, 보여주고 싶은 메세지를 보여주는 `웹 사이트`를  
 > 보여주는 거울과 이를 제어하는 `모바일 앱`으로 구성된 프로젝트입니다.
